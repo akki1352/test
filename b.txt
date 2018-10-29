@@ -1,2 +1,4 @@
+
+this is file from another branch called b_branch.
 this is file b.
 its is .txt file.
