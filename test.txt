@@ -1,8 +1,17 @@
 This is the firs t line of file.'
 
+<<<<<<< HEAD
 This is for branch a_branch.
+<<<<<<< HEAD
+=======
 
+=======
+>>>>>>> a0937eeac753f0c341f496feed045392b809a72d
 this is line for a_branch.
 
 
 b_branch
+<<<<<<< HEAD
+>>>>>>> b_branch
+=======
+>>>>>>> a0937eeac753f0c341f496feed045392b809a72d
